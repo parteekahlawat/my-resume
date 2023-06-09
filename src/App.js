@@ -11,7 +11,7 @@ function App() {
   return (
     <>
     <Navbar/>
-    <BrowserRouter>
+    <BrowserRouter basename='/my-resume'>
     <Routes>
       <Route path='/' element={<Homepage/>}/>
       <Route path='/about' element={<Aboutpage/>}/>
