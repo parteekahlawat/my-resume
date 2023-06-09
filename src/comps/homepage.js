@@ -14,10 +14,7 @@ const Homepage = () => {
             <h3>Frontend developer</h3>
           </div>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-            Exercitationem quia magni corrupti nisi esse? Pariatur omnis impedit
-            debitis quaerat aperiam nihil, excepturi cum fuga! Rem, nisi
-            dolorem.
+            Hi There, Nice to see you!
           </p>
           <div className="btn-box">
             <a href="#" className="btn">Hire Me</a>
