@@ -8,7 +8,7 @@ const Homepage = () => {
       <section className="home" id="home">
         <div className="home-content">
           <h1>
-            Hi, I'm <span>Parteek</span>
+            Hi, I'm <span>Parteek.</span>
           </h1>
           <div className="text-animate">
             <h3>Frontend developer</h3>
