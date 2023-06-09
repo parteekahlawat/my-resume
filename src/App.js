@@ -13,7 +13,7 @@ function App() {
     <Navbar/>
     <BrowserRouter >
     <Routes>
-      <Route path='/' element={<Homepage/>}/>
+      <Route path='/my-resume' element={<Homepage/>}/>
       <Route path='/about' element={<Aboutpage/>}/>
       <Route path='/skills' element={<Skillpage/>}/>
       <Route path='/contact' element={<Contactpage/>}/>
