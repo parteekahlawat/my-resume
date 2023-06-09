@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <>
     <header class="header">
-        <a href="/" class="logo">Parteek</a>
+        <a href="/" class="logo">Parteek.</a>
         <div class="bx bx-menu" id ="menu-icon"></div>
     <nav class="Navbar">
         <a href='/'>Home</a>
